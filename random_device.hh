@@ -20,6 +20,7 @@
 #include <limits>
 #include <climits>
 #include <stdexcept>
+#include <string>
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
